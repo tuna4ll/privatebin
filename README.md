@@ -2,6 +2,8 @@
 
 Privatebin is a zero-knowledge, privacy-focused paste sharing platform built with Next.js. It ensures that the server never sees your plaintext content by performing all encryption and decryption locally in the browser.
 
+<img width="1905" height="919" alt="image" src="https://github.com/user-attachments/assets/cb10cb67-18d3-4b7f-904b-1a212be4dc97" />
+
 ## Features
 
 - **Zero-Knowledge Architecture:** Encryption happens in the browser via Web Crypto API (AES-GCM).
